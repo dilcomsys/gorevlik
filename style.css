@@ -30,3 +30,15 @@ button {
   background: #2f6fed;
   color: white;
 }
+
+li {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 8px 0;
+}
+
+.sil {
+  padding: 6px 12px;
+  background: #d64545;
+}
